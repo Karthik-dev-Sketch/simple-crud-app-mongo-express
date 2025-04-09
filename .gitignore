@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# OS-related files
+.DS_Store
+Thumbs.db
+
+# Nodemon config (optional)
+nodemon.json
+
+# Editor settings (optional)
+.vscode/
+.idea/
+
+# Build artifacts (if any)
+dist/
+build/
